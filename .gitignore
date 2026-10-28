@@ -1,0 +1,76 @@
+# ==========================================
+# Dependencies
+# ==========================================
+/node_modules
+/.pnp
+.pnp.js
+.yarn/cache
+
+# ==========================================
+# Next.js Build Outputs & Cache
+# ==========================================
+/.next/
+/out/
+/build
+/dist
+.turbo/
+
+# ==========================================
+# TypeScript Cache & Archives
+# ==========================================
+*.tsbuildinfo
+*.zip
+
+# ==========================================
+# Environment Variables & Secrets
+# ==========================================
+.env
+.env*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ==========================================
+# Debug Logs
+# ==========================================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+lerna-debug.log*
+
+# ==========================================
+# Testing & Coverage
+# ==========================================
+/coverage
+.nyc_output
+
+# ==========================================
+# Deployment Platforms
+# ==========================================
+.vercel
+
+# ==========================================
+# Operating System Files
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==========================================
+# IDE & Code Editor Folders
+# ==========================================
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.project
+.classpath
+.settings/

@@ -432,7 +432,7 @@ export default function Home() {
             <div className="relative rounded-[2.2rem] border border-white/15 bg-white/[.05] p-3 sm:p-3.5 shadow-2xl backdrop-blur-xl">
               <div className="overflow-hidden rounded-[1.6rem] border border-blue-300/30 bg-slate-900 shadow-inner aspect-[3/3.8] sm:aspect-[3/3.9]">
                 <img
-                  src="/profile-dummy.jpg"
+                  src="/profile.jpg"
                   alt="Suraj Chauhan"
                   className="h-full w-full object-cover object-[center_20%] transition duration-500 hover:scale-105"
                 />

@@ -36,7 +36,7 @@ A responsive, modern personal portfolio website built with Next.js (App Router),
 
 ## Customization & Assets
 
-- **Profile Photo**: Dummy photo is located at `public/profile-dummy.jpg`. Replace this file or update the `src` attribute in `app/page.tsx` when using your personal photo.
+- **Profile Photo**: Profile photo is located at `public/profile.jpg` and displayed in the hero section of `app/page.tsx`.
 - **Resume (CV)**: The downloadable CV is located at `public/suraj-chauhan-cv.pdf`.
 - **Contact Details**: Update email, phone, and add LinkedIn/GitHub links in the Contact section of `app/page.tsx`.
 
